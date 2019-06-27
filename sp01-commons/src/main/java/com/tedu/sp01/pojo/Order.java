@@ -10,7 +10,9 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Order {
+	//id
 	private String id;
+	//user
 	private User user;
 	private List<Item> items;
 }
