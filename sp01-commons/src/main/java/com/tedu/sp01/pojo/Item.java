@@ -20,6 +20,12 @@ public class Item {
 	//5555
 	//555
 	//99
+<<<<<<< HEAD
 	//123456
 }
 
+=======
+	//00
+}
+
+>>>>>>> branch 'master' of https://github.com/liuzhiwei520131/sp-rep.git
