@@ -14,18 +14,13 @@ public class Item {
 	private String name;
 	private Integer number;
 	//111111111111
-
+	//00
 	//3333333333333
 	//4444
 	//5555
 	//555
 	//99
-<<<<<<< HEAD
+	//github.com/liuzhiwei520131/sp-rep.git
 	//123456
 }
 
-=======
-	//00
-}
-
->>>>>>> branch 'master' of https://github.com/liuzhiwei520131/sp-rep.git
